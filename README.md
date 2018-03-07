@@ -1,5 +1,5 @@
 # humio1
-my new project
+my fully working new project
 
 Based on seed project `spring-team:spring-rest-seed`
 
